@@ -227,7 +227,7 @@
     }
     .banner h1{
       color: var(--light);
-      font-size:8rem;
+      font-size:5rem;
       max-width:80rem;
       text-align:center;
     }
